@@ -21,7 +21,7 @@ function App() {
         StreetSpot
       </h1>
       <p style={{ fontSize: '1.2rem', marginTop: '10px' }}>
-        A Hardin Brother Company
+        Hardin Brothers
       </p>
       <div style={{
         marginTop: '20px',
