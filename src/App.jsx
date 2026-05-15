@@ -18,7 +18,7 @@ function App() {
         textShadow: '0 0 10px #00d1ff, 0 0 20px #00d1ff',
         margin: '0' 
       }}>
-        StreetSpot
+       STREETSPOT
       </h1>
       <p style={{ fontSize: '1.2rem', marginTop: '10px' }}>
         Hardin Brothers
