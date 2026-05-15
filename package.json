@@ -1,4 +1,5 @@
 {
+  "homepage": "https://streetspot.github.io/StreetSpot-App/",
   "name": "streetspot-app",
   "version": "0.1.0",
   "dependencies": {
