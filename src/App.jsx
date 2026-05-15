@@ -32,7 +32,7 @@ function App() {
       }}>
         Coming Soon
       </div>
-    </div>
+    </div> 
   );
 }
 
